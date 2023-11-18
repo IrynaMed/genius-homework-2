@@ -1,1 +1,1 @@
-# genius-homework-2
+[Homework 2](https://irynamed.github.io/genius-homework-2/)
